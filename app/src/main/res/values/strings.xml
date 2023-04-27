@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AndroidProjet</string>
+    <string name="welcomeText">Bienvenue sur notre plateforme qui relie les éleveurs et les vétérinaires pour offrir des soins de qualité à vos animaux. Trouvez rapidement un vétérinaire compétent pour répondre à vos besoins</string>
+    <string name="getStartedText">Commencer</string>
+    <string name="french">Français</string>
+    <string name="arabe">Arabe</string>
+
+    <string name="IdentificationTitle">Identification</string>
+    <string name="IdentificationDeclare">Your information is safe with us</string>
+    <string name="IntroduireCode">Merci d’introduire le code de confirmation
+reçu par SMS. </string>
+    <string name="precendentButton">Précédent</string>
+    <string name="suivantButton">Suivant</string>
+    <string name="enregistrerButton">Enregistrer</string>
+    <string name="welcomeBack">Welcome Back ! </string>
+    <string name="title_activity_attachs">AttachsActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="professionQuestion">Quelle est votre profession ?</string>
+    <string name="vet">Vétérinaire</string>
+    <string name="eleveur">Éleveur</string>
+    <string name="photoCin">Je prends ma CIN en photo</string>
+    <string name="madame">Madame</string>
+    <string name="monsieur">Monsieur</string>
+    <string name="civilite">Civilité</string>
+    <string name="nom_complet_fr">Nom complet</string>
+    <string name="nom_complet_ar">الاسم الكامل</string>
+    <string name="CIN_fr">CIN</string>
+    <string name="CIN_ar">رقم البطاقة</string>
+    <string name="star">*</string>
+    <string name="adresse_actuelle_fr">Adresse Actuelle</string>
+    <string name="adresse_actuelle_ar">العنوان الحالي</string>
+    <string name="photo_profil">photo de profil</string>
+    <string name="french_language_button">Button de lange française</string>
+    <string name="arabe_language_button">Button de lange arabe</string>
+    <string name="cornerImage1">corner Image</string>
+    <string name="cornerImage2">corner image 2</string>
+    <string name="imageEleveur">image Eleveur</string>
+    <string name="imageVet">image vet</string>
+    <string name="cinImage">cin image</string>
+    <string name="iconImage">icon image</string>
+    <string name="numero_de_telephone">Numero de telephone</string>
+    <string name="sms_de_v_rification">SMS de vérification</string>
+    <string name="saisir_le_mot_de_passe">Saisir le mot de passe</string>
+    <string name="sign_in">sign in</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="veuillez_choisir_un_mot_de_passe">Veuillez choisir un mot de passe</string>
+    <string name="choisir_un_mot_de_passe">choisir un mot de passe</string>
+    <string name="confirmation_mot_de_passe">confirmation mot de passe</string>
+    <string name="register_with_us">Register with us!</string>
+    <string name="entrer_votre_nom_complet">Entrer votre nom complet</string>
+    <string name="entrer_votre_num_ro_de_t_l_phone">Entrer votre numéro de téléphone</string>
+    <string name="entrer_votre_email">Entrer votre Email</string>
+    <string name="entrer_votre_mot_de_passe">Entrer votre mot de passe</string>
+    <string name="reconfirmer_votre_mot_de_passe">Reconfirmer votre mot de passe</string>
+    <string name="already_have_an_account">already have an account ?</string>
+    <string name="welcome_back">Welcome back !</string>
+    <string name="welcome_back_icon">welcome back icon</string>
+    <string name="don_t_have_an_account">Don\'t have an account</string>
+    <string name="sign_up">sign up</string>
+    <string name="welcomingIcon">welcomingIcon</string>
+    <string name="imageForDeco">ImageForDeco</string>
+
+
+</resources>
